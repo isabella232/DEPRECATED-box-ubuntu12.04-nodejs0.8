@@ -1,8 +1,9 @@
 name : ubuntu12.04-nodejs0.8
-version : 0.0.2
+version : 0.0.3
 inherits : wercker/ubuntu12.04-webessentials
 script: |
-  export NODEVERSION=0.8.16  
+  export NODEVERSION=0.8.16
+  sudo apt-get update
   sudo apt-get install wget build-essential
   cd $HOME
   mkdir nodeinstall
