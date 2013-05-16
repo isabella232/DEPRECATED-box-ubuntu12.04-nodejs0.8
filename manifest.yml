@@ -16,5 +16,6 @@ script: |
   sudo make install
   cd $HOME
   rm -fr nodeinstall
+  node -v
   
   
