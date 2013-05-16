@@ -12,7 +12,7 @@ script: |
   cd node-v$NODEVERSION
   ./configure
   make
-  make install
+  sudo make install
   cd $HOME
   rm -fr nodeinstall
   
