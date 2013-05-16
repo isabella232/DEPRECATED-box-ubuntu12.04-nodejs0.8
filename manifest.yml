@@ -1,0 +1,12 @@
+name : ubuntu12.04-nodejs0.8
+version : 0.0.1
+inherits : wercker/ubuntu12.04-webessentials
+script: |
+  sudo apt-get install wget build-essential
+  export NODEVERSION=0.8.16
+  wget http://nodejs.org/dist/v$NODEVERSION/node-v$NODEVERSION.tar.gz
+  tar xzvf node-v$NODEVERSION.tar.gz
+  cd node-v$NODEVERSION
+  ./configure
+  make
+  make install
