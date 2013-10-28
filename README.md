@@ -4,7 +4,7 @@ ubuntu12.04-nodejs0.8
 
 # What's new
 
-- Update [`web-essentials`](https://app.wercker.com/#applications/51ab0c42df8960ba45003fd9/tab/details) to 0.0.11
+- Update [`web-essentials`](https://app.wercker.com/#applications/51ab0c42df8960ba45003fd9/tab/details) to 0.0.12
 
 # License
 
