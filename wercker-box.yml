@@ -1,6 +1,6 @@
 name : ubuntu12.04-nodejs0.8
 version : 0.0.9
-inherits : wercker/ubuntu12.04-webessentials@0.0.12
+inherits : wercker/ubuntu12.04-webessentials@0.0.13
 type : main
 platform : ubuntu@12.04
 packages :
