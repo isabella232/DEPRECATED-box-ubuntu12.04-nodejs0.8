@@ -1,10 +1,10 @@
 # ubuntu12.04-nodejs0.8 box
 
-ubuntu12.04-nodejs0.8
+A wercker box containing ubuntu 12.04, with nodejs 0.8.x installed.
 
 # What's new
 
-- Update [`web-essentials`](https://app.wercker.com/#applications/51ab0c42df8960ba45003fd9/tab/details) to 0.0.13
+- Update Node.js version to 0.8.25
 
 # License
 
@@ -30,6 +30,10 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
+
+## 1.0.0
+
+- Update Node.js version to 0.8.25
 
 ## 0.0.10
 
