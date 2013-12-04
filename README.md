@@ -5,6 +5,7 @@ A wercker box containing ubuntu 12.04, with nodejs 0.8.x installed.
 # What's new
 
 - Update Node.js version to 0.8.25
+- Update inheritance to `wercker/ubuntu12.04-webessentials@1.0.0`
 
 # License
 
@@ -15,6 +16,7 @@ The MIT License (MIT)
 ## 1.0.0
 
 - Update Node.js version to 0.8.25
+- Update inheritance to `wercker/ubuntu12.04-webessentials@1.0.0`
 
 ## 0.0.10
 
