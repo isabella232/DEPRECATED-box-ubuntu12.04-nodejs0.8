@@ -4,13 +4,17 @@ A wercker box containing ubuntu 12.04, with Node.js 0.8.x installed.
 
 # What's new
 
-- Update Node.js version to `0.8.28`
+- Update base-box to wercker/ubuntu12.04-webessentials@1.0.4
 
 # License
 
 The MIT License (MIT)
 
 # Changelog
+
+## 1.3.0
+
+- Update base-box to wercker/ubuntu12.04-webessentials@1.0.4
 
 ## 1.2.0
 
